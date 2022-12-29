@@ -9,7 +9,7 @@ class parents {
     print('Car : $car');
   }
 }
-
+/// Please rename your class in Capital Camel Case
 class son extends parents {
   // @override // variable override
   // int car = 8;
